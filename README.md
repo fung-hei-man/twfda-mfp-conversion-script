@@ -1,4 +1,4 @@
-# twfda-myfitnesspal-conversion-script
+# TWFDA to MFP Converter
 
 Script to convert nutrition info on TWFDA website to MyFitnessPal format to create new food on the app more easily.
 
