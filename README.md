@@ -3,7 +3,7 @@
 Script to convert nutrition info on TWFDA website to MyFitnessPal format
 
 ### How to Use
-1. Create Bookmark with url `javascript:(function(){var script=document.createElement('SCRIPT');script.src='https://fung-hei-man.github.io/twfda-myfitnesspal-conversion-script/converter.js';document.body.appendChild(script);})()`
+1. Create Bookmark with url `javascript:(function(){var script=document.createElement('SCRIPT');script.src='https://fung-hei-man.github.io/twfda-mfp-conversion-script/converter.js';document.body.appendChild(script);})()`
 
 2. Search food on [TWFDA Webpage](https://consumer.fda.gov.tw/Food/TFND.aspx?nodeID=178)
 
