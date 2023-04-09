@@ -24,7 +24,7 @@
         name: 'trans', 
         display: 'Trans',
         unit: 'g',
-        cal: null,
+        cal: function(val) { return val / 1000 },
       },
       '脂肪酸P總量': {
         name: 'poly',
